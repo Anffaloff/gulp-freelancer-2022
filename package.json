@@ -1,0 +1,23 @@
+{
+  "name": "gulp-freelancer-2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anffaloff/gulp-freelancer-2022.git"
+  },
+  "author": "anffaloff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anffaloff/gulp-freelancer-2022/issues"
+  },
+  "homepage": "https://github.com/Anffaloff/gulp-freelancer-2022#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
